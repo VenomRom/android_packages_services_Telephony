@@ -613,4 +613,12 @@
     <string name="mobile_data_activate_diag_message" msgid="8216154678758451453">"<xliff:g id="PROVIDER_NAME">%s</xliff:g> üzerinden veri planı eklemeniz gerekebilir"</string>
     <string name="mobile_data_activate_button" msgid="3682400969184405446">"VERİ PLANI EKLE"</string>
     <string name="mobile_data_activate_cancel_button" msgid="1708022171547398765">"İPTAL"</string>
+    <!-- In-call screen: status label for Unconditional Call Forwarding enabled  -->
+    <string name="card_title_unconditionalCF">Koşulsuz çağrı yönlendirme etkin</string>
+    <!-- In-call screen: status label for Conditional Call Forwarding enabled  -->
+    <string name="card_title_conditionalCF">Koşullu çağrı yönlendirme etkin</string>
+    <!-- In-call screen: status label for a forwarded MO call  -->
+    <string name="card_title_MOcall_forwarding">Giden Yönlendirilmiş Çağrı</string>
+    <!-- In-call screen: status label when Call waiting is enabled on remote party  -->
+    <string name="card_title_calliswaiting">Çağrı beklemede</string>
 </resources>
